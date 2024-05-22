@@ -1,0 +1,94 @@
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Poisson_distribution.exe
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Poisson_distribution.deps.json
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Poisson_distribution.runtimeconfig.json
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Poisson_distribution.dll
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Poisson_distribution.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution_MarkupCompile.cache
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution_MarkupCompile.lref
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.g.resources
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.AssemblyInfoInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.AssemblyInfo.cs
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.dll
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\refint\Poisson_distribution.dll
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.genruntimeconfig.cache
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\ref\Poisson_distribution.dll
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.csproj.CopyComplete
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Simulation_Window.g.cs
+C:\Users\artem\OneDrive\Рабочий стол\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Simulation_Window.baml
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Simulation_Window.g.cs
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution_MarkupCompile.cache
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution_MarkupCompile.lref
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.dll
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\refint\Poisson_distribution.dll
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Poisson_distribution.exe
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Poisson_distribution.deps.json
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Poisson_distribution.runtimeconfig.json
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Poisson_distribution.dll
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Poisson_distribution.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Simulation_Window.baml
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.g.resources
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.AssemblyInfoInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.AssemblyInfo.cs
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.csproj.CopyComplete
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.genruntimeconfig.cache
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\ref\Poisson_distribution.dll
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Aspose.Cells.dll
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\My_data.g.cs
+C:\Users\artem\OneDrive\Рабочий стол\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\My_data.baml
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Poisson_distribution.exe
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Poisson_distribution.deps.json
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Poisson_distribution.runtimeconfig.json
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Poisson_distribution.dll
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Poisson_distribution.pdb
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Aspose.Cells.dll
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.csproj.AssemblyReference.cache
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\My_data.g.cs
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Simulation_Window.g.cs
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\App.g.cs
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution_MarkupCompile.cache
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution_MarkupCompile.lref
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\My_data.baml
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Simulation_Window.baml
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.g.resources
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.AssemblyInfoInputs.cache
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.AssemblyInfo.cs
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.csproj.CoreCompileInputs.cache
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.csproj.CopyComplete
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.dll
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\refint\Poisson_distribution.dll
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.pdb
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.genruntimeconfig.cache
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\ref\Poisson_distribution.dll
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Results.g.cs
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Results.baml
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.Properties.Resources.resources
+C:\Домашки 2 курс\Курсовая работа\Poisson_distribution\Poisson_distribution\obj\Debug\net8.0-windows\Poisson_distribution.csproj.GenerateResource.cache
